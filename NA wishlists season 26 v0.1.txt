@@ -1,13 +1,13 @@
 title:NA wishlists season 26 v0.1
 
-// Eyes Unveiled ()
+// 새로운 시각
 dimwishlist:item=-727781522&perks=
 
 
-// Neoptolemus II ()
+// 네오프톨레모스 II
 dimwishlist:item=-2848549302&perks=
 
-// Watchful Eye ()
+// 깨어있는 눈
 dimwishlist:item=1757177186&perks=3643424744,3966416502
 dimwishlist:item=1757177186&perks=3643424744,717070634
 dimwishlist:item=1757177186&perks=3643424744,3218042543
