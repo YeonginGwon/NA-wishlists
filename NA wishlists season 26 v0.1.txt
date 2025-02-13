@@ -1,4 +1,4 @@
-title:NA wishlists season 26 v0.1
+title:NA wishlists season 26
 
 // 새로운 시각
 dimwishlist:item=-727781522&perks=
@@ -33,5 +33,12 @@ dimwishlist:item=1757177186&perks=2308090567,2633604463
 dimwishlist:item=1757177186&perks=2308090567,557221067
 dimwishlist:item=1757177186&perks=2308090567,2896748467
 
+// 여행가
+dimwishlist:item=3433930495&perks=776531651,2048641572
+dimwishlist:item=3433930495&perks=3523296417,2048641572
+
 // 선견지명
 dimwishlist:item=-423343404
+
+// 심연의 칼날
+dimwishlist:item=547165496
