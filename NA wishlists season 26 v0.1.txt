@@ -1,11 +1,11 @@
 title:NA wishlists season 26
 
 // 새로운 시각
-dimwishlist:item=-727781522&perks=
+dimwishlist:item=-727781522
 
 
 // 네오프톨레모스 II
-dimwishlist:item=-2848549302&perks=
+dimwishlist:item=-2848549302
 
 // 깨어있는 눈
 dimwishlist:item=1757177186&perks=3643424744,3966416502
@@ -42,3 +42,8 @@ dimwishlist:item=-423343404
 
 // 심연의 칼날
 dimwishlist:item=-547165496
+
+//유독성 베티버
+dimwishlist:item=825495813&perks=1119449540,3966416502
+dimwishlist:item=825495813&perks=243981275,3966416502
+dimwishlist:item=825495813&perks=691659142,3966416502
