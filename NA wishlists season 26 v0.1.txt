@@ -43,7 +43,10 @@ dimwishlist:item=-423343404
 // 심연의 칼날
 dimwishlist:item=-547165496
 
-//유독성 베티버
+// 도미노
+dimwishlist:item=-2800870005
+
+// 유독성 베티버
 dimwishlist:item=825495813&perks=1119449540,3966416502
 dimwishlist:item=825495813&perks=243981275,3966416502
 dimwishlist:item=825495813&perks=691659142,3966416502
