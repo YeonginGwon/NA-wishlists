@@ -46,6 +46,8 @@ dimwishlist:item=-547165496
 // 도미노
 dimwishlist:item=-2800870005
 
+// 격노 상태 V
+dimwishlist:item=-751880654
 // 유독성 베티버
 dimwishlist:item=825495813&perks=1119449540,3966416502
 dimwishlist:item=825495813&perks=243981275,3966416502
