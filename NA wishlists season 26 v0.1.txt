@@ -8,6 +8,14 @@ dimwishlist:item=-1587953057
 dimwishlist:item=-1612781792
 // 네오프톨레모스 II
 dimwishlist:item=-2848549302
+// 선견지명
+dimwishlist:item=-423343404
+// 심연의 칼날
+dimwishlist:item=-547165496
+// 도미노
+dimwishlist:item=-2800870005
+// 격노 상태 V
+dimwishlist:item=-751880654
 
 // 깨어있는 눈
 dimwishlist:item=1757177186&perks=3643424744,3966416502
@@ -39,17 +47,6 @@ dimwishlist:item=1757177186&perks=2308090567,2896748467
 dimwishlist:item=3433930495&perks=776531651,2048641572
 dimwishlist:item=3433930495&perks=3523296417,2048641572
 
-// 선견지명
-dimwishlist:item=-423343404
-
-// 심연의 칼날
-dimwishlist:item=-547165496
-
-// 도미노
-dimwishlist:item=-2800870005
-
-// 격노 상태 V
-dimwishlist:item=-751880654
 // 유독성 베티버
 dimwishlist:item=825495813&perks=1119449540,3966416502
 dimwishlist:item=825495813&perks=243981275,3966416502
